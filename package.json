@@ -1,6 +1,6 @@
 {
   "name": "koa-service",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "koa service",
   "main": "lib/koaService.js",
   "scripts": {
